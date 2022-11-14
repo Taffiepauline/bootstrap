@@ -1,0 +1,278 @@
+.herosection{
+    background-image: url(../images/banner.png);
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ width: 100%;
+ height: 100vh;
+}
+
+
+.sctn3{
+    display: flex;
+    flex-direction: row;
+    gap: 10px; 
+}
+.indulge{
+ padding-top: 150px; 
+font-size: 120px;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.icons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 20px;
+    
+    
+}
+.icons img{
+    height: 20px;
+    width: 20px;
+}
+
+
+.OurStory{
+    padding: 120px;
+}
+.OurStory .container{
+    display: flex;
+    justify-content: space-evenly;
+      
+}
+.ourgallary img{display: flex;
+    
+
+}
+
+
+
+.act{
+    display: flex;
+    flex-direction: row;
+    color: white;
+     gap: 10px;}
+
+     .nav-link{color: white;}
+
+   
+
+  
+.gamedrivers{
+     background-image: url(../images/four.png);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     width: 300px;
+     height: 400px;
+     display: flex;
+     padding-top: 220px;
+     flex-direction: column;
+     
+    
+   
+     
+    }
+.Walking{ background-image: url(../images/five.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center; 
+}
+.Watching{background-image: url(../images/six.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.Canoeing{background-image: url(../images/seven.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+
+}
+.Fishing{ background-image: url(../images/eight.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+ 
+.Activities {
+    padding: 100px;
+}
+.recent{
+    padding: 120px;
+    display: flex;
+    flex-direction: row;  
+}
+.story{
+    margin-top: 80px;
+}
+button{
+    padding: 12px;
+    font-weight: bold;
+    background-color: rgb(245, 68, 0);
+    border: 1px;
+    color: white;
+}
+
+.Iteneries .card{
+    background-color: rgb(245, 68, 0);
+    padding: 50px;
+}
+.iteneries1{background-image: url(../images/Rectangle\ 38.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 520px;}
+
+    .iteneries2{background-image: url(../images/Rectangle\ 37.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        width: 300px;
+        height: 520px;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+    
+}
+
+        .iteneries3{background-image: url(../images/Rectangle\ 36.png);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            width: 300px;
+            height: 520px;
+            display: flex;
+            align-items: flex-end;
+            justify-content: center;}
+.Iteneries{
+    display: flex;
+    gap: 10px;
+    color: white;
+}
+
+.testmonials1{background-image: url(../images/Rectangle\ 46.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 520px;}
+
+
+        .testmonials2{background-image: url(../images/Rectangle\ 45.png);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            width: 300px;
+            height: 520px;}
+
+  .testmonials{
+    padding: 120px;
+  }
+  
+  .testmonials .card{
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .ourgallary{
+    padding: 120px;
+  }
+  .ourgallary img{
+    height: 300px;
+    
+  }
+  .footer{color: white;
+
+  }
+  .ft{padding: 50px;
+  }
+  .ftr{display: flex;
+    justify-content: center;
+    
+  }
+  .Nyamatuse{
+    color: rgb(245, 68, 0);
+
+  }
+  .navbar-nav{
+    color: white;
+  }
+ 
+  .image1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  
+  }
+  .image2{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  .image3{
+    padding-top: 100px;
+  }
+  .image4{
+    padding-top: 150px;
+  }
+  .image5{
+    padding-top: 50px;
+  }
+  .image6{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  .image7{
+    padding-top: 100px;
+  }
+
+  .see{
+    display: flex;
+    justify-content: space-between;
+  }
+  .see img{
+    width: 30px;
+    height: 30px;
+  
+  }
+  .c{
+    gap: -40px;
+  }
+  
+  
+
